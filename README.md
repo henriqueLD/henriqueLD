@@ -6,9 +6,11 @@
 
 <p>
 
+<!---
 Trabalhando no **Santander Brasil**<br/>
-
-Eu sou **data scientist**.
+--->
+  
+Atuando como **data scientist** no Santander Brasil.
 
 
 </p>
