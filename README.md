@@ -10,7 +10,7 @@
 Trabalhando no **Santander Brasil**<br/>
 --->
   
-Atuando como **data scientist** no Santander Brasil.
+Atuando como **Data Scientist** no Santander Brasil.
 
 
 </p>
