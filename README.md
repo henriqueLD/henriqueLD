@@ -9,9 +9,6 @@
 <!---
 Trabalhando no **Santander Brasil**<br/>
 --->
-  
-Atuando como **Data Scientist** no Santander Brasil.
-
 
 </p>
 <hr>
